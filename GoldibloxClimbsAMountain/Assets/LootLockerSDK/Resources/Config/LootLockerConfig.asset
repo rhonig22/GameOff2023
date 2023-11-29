@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 182cd195a28310e479cddf7ff82822f8, type: 3}
+  m_Name: LootLockerConfig
+  m_EditorClassIdentifier: 
+  apiKey: dev_9af9e1b892b34eb2aa8e54f12fc70b68
+  token: ad91336248c2a1e12fe6fb55854da6eae81a2c29
+  adminToken: 
+  refreshToken: 
+  domainKey: cspa4toh
+  gameID: 0
+  game_version: 1.0.0.0
+  sdk_version: 
+  deviceID: acc1f62e-4556-4232-8903-972c227f3429
+  url: https://api.lootlocker.io/v1
+  adminUrl: https://cspa4toh.api.lootlocker.io/admin
+  playerUrl: https://cspa4toh.api.lootlocker.io/player
+  userUrl: https://cspa4toh.api.lootlocker.io/game
+  baseUrl: https://cspa4toh.api.lootlocker.io
+  clientSideRequestTimeOut: 5
+  currentDebugLevel: 0
+  allowTokenRefresh: 1
